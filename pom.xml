@@ -13,19 +13,13 @@
 	<version>0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Integrate DHIS2</name>
-	<description> </description>
+	<description>An OpenMRS module to integrate Bahmni with DHIS2.</description>
 
 	<scm>
 		<connection>scm:git:git@github.com:psi-zimb/openmrs-module-integratedhis2.git</connection>
 		<developerConnection>scm:git:git@github.com:psi-zimb/openmrs-module-integratedhis2.git</developerConnection>
 		<url>https://github.com/psi-zimb/openmrs-module-integratedhis2</url>
 	</scm>
-
-	<developers>
-		<developer>
-			<name>ThoughtWorks</name>
-		</developer>
-	</developers>
 
 	<modules>
 		<module>api</module>
